@@ -1,4 +1,4 @@
-## Bem vindo, Meu nome é Filipe!
+## Bem vindo! Meu nome é Filipe!
 
 - 🎓 Atualmente cursando Técnico em Informática na <a href="https://epsa.com.br" target="_blank"> Escola Profissionalizante Santo Agostinho </a>
 
