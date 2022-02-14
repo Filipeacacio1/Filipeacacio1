@@ -26,7 +26,7 @@ CSS <br>
 </div>
   
   ##
- 
+  
 <div> 
   <a href="https://instagram.com/filipeacacio1" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "filipeneopixforever05@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
