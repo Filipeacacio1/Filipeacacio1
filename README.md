@@ -3,7 +3,7 @@ Um pouco sobre mim
 
 - 🎓 Atualmente cursando Técnico em Informática na <a href="https://epsa.com.br" target="_blank"> Escola Profissionalizante Santo Agostinho </a>
 
-- 🖥 Conhecimento em Manutenção de Computadores;
+- 🖥 Conhecimento em Manutenção de Computadores
 
 - 📚 Atualmente Aprendendo: <br>
 Dart <br>
