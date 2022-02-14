@@ -9,7 +9,7 @@ Dart <br>
 HTML <br>
 CSS <br>
 
-                                                               -GitHub Stats-
+                                                             -GitHub Stats-
 <div align="center">
   <a href="https://github.com/Filipeacacio1">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Filipeacacio1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
