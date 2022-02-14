@@ -9,10 +9,11 @@ Dart <br>
 HTML <br>
 CSS <br>
 
+                                                               -GitHub Stats-
 <div align="center">
   <a href="https://github.com/Filipeacacio1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipeacacio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeacacio1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Filipeacacio1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeacacio1&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-HTML" height="30" width="360" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png">
