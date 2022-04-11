@@ -6,7 +6,7 @@ Um pouco sobre mim
 - 🖥 Conhecimento em Manutenção de Computadores
 
 - 📚 Atualmente Aprendendo: <br>
-Dart <br>
+Dart/Flutter <br>
 HTML <br>
 CSS <br>
 
