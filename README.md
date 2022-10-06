@@ -1,7 +1,7 @@
 ## Hello, eu sou o Filipe!
 Um pouco sobre mim
 
-- 🎓 Atualmente cursando Técnico em Informática na <a href="https://epsa.com.br" target="_blank"> Escola Profissionalizante Santo Agostinho </a>
+- 🎓 Técnico em Informática na <a href="https://epsa.com.br" target="_blank"> Escola Profissionalizante Santo Agostinho </a>
 
 - 🖥 Conhecimento em Manutenção de Computadores
 
