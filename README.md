@@ -11,6 +11,7 @@ Um pouco sobre mim
 Dart/Flutter <br>
 HTML <br>
 CSS <br>
+JavaScript <br>
 
                                                              -GitHub Stats-
 <div align="center">
