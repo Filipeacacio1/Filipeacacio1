@@ -3,6 +3,8 @@ Um pouco sobre mim
 
 - 🎓 Técnico em Informática na <a href="https://epsa.com.br" target="_blank"> Escola Profissionalizante Santo Agostinho </a>
 
+- 🎓 Cursando Sistemas de informação em <a href="https://www.pucminas.br/" target="_blank"> PUC Minas </a>
+
 - 🖥 Conhecimento em Manutenção de Computadores
 
 - 📚 Atualmente Aprendendo: <br>
