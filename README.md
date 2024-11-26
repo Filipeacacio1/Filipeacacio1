@@ -7,11 +7,12 @@ Um pouco sobre mim
 
 - 🖥 Conhecimento em Manutenção de Computadores
 
-- 📚 Atualmente Aprendendo: <br>
+- 📚 Linguagens: <br>
 Dart/Flutter <br>
 HTML <br>
 CSS <br>
 JavaScript <br>
+C#
 
                                                              -GitHub Stats-
 <div align="center">
