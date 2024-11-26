@@ -24,7 +24,7 @@ JavaScript <br>
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filipe-dart" height="30" width="30" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png">
-  <img align="center" alt="Filipe-bootstrap" height="40" width="60" src="https://i.stack.imgur.com/dMXbE.png">
+  <img align="center" alt="Filipe-bootstrap" height="40" width="60" src="https://i.sstatic.net/dMXbE.png">
   <img align="center" alt="Filipe-adobeXD" height="34" width="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
   
 </div>
